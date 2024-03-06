@@ -9,6 +9,7 @@ import Services from "./components/services/Services.jsx";
 import Collaboration from "./components/collaboration/Collaboration.jsx";
 
 import './App.css'
+import Footer from "./components/Footer.jsx";
 
 //----------------------------------------------
 
@@ -24,6 +25,7 @@ const App = () => {
                 <Services />
                 <Pricing />
                 <Roadmap />
+                <Footer />
             </div>
 
             <ButtonGradient/>
