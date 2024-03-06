@@ -1,8 +1,10 @@
 import Header from "./components/Header.jsx";
 import ButtonGradient from "./assets/svg/ButtonGradient.jsx";
 
-import './App.css'
 import Hero from "./components/hero/Hero.jsx";
+import Benefits from "./components/Benefits.jsx";
+
+import './App.css'
 
 //----------------------------------------------
 
@@ -13,6 +15,7 @@ const App = () => {
             <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
                 <Header/>
                 <Hero />
+                <Benefits />
             </div>
 
             <ButtonGradient/>
