@@ -3,7 +3,7 @@ import {ScrollParallax} from "react-just-parallax";
 
 import Button from "../Button.jsx";
 import Section from "../Section.jsx";
-import Generating from "./Generating.jsx";
+import Generating from "../Generating.jsx";
 import CompanyLogos from "./CompanyLogos.jsx";
 import Notification from "./Notification.jsx";
 

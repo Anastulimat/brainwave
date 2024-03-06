@@ -1,4 +1,4 @@
-import {loading} from "../../assets/index.js";
+import {loading} from "../assets/index.js";
 
 //----------------------------------------------
 
