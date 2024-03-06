@@ -1,9 +1,9 @@
-import Button from "./Button";
-import Section from "./Section";
+import Button from "../Button.jsx";
+import Section from "../Section.jsx";
 
-import { brainwaveSymbol, check } from "../assets";
-import { collabApps, collabContent, collabText } from "../constants";
-import { LeftCurve, RightCurve } from "../design/Collaboration";
+import { brainwaveSymbol, check } from "../../assets/index.js";
+import { collabApps, collabContent, collabText } from "../../constants/index.js";
+import { LeftCurve, RightCurve } from "../../design/Collaboration.jsx";
 
 //----------------------------------------------
 

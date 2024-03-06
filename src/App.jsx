@@ -2,9 +2,10 @@ import Header from "./components/Header.jsx";
 import ButtonGradient from "./assets/svg/ButtonGradient.jsx";
 
 import Hero from "./components/hero/Hero.jsx";
-import Benefits from "./components/Benefits.jsx";
-import Services from "./components/Services.jsx";
-import Collaboration from "./components/Collaboration.jsx";
+import Pricing from "./components/pricing/Pricing.jsx";
+import Benefits from "./components/features/Benefits.jsx";
+import Services from "./components/services/Services.jsx";
+import Collaboration from "./components/collaboration/Collaboration.jsx";
 
 import './App.css'
 
@@ -20,6 +21,7 @@ const App = () => {
                 <Benefits />
                 <Collaboration />
                 <Services />
+                <Pricing />
             </div>
 
             <ButtonGradient/>

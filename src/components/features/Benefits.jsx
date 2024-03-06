@@ -1,12 +1,12 @@
 import React from 'react';
 
-import Section from "./Section.jsx";
-import Heading from "./Heading.jsx";
+import Section from "../Section.jsx";
+import Heading from "../Heading.jsx";
 
-import Arrow from "../assets/svg/Arrow";
-import {benefits} from "../constants/index.js";
-import ClipPath from "../assets/svg/ClipPath.jsx";
-import {GradientLight} from "../design/Benefits.jsx";
+import Arrow from "../../assets/svg/Arrow.jsx";
+import {benefits} from "../../constants/index.js";
+import ClipPath from "../../assets/svg/ClipPath.jsx";
+import {GradientLight} from "../../design/Benefits.jsx";
 
 //----------------------------------------------
 
